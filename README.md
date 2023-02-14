@@ -8,9 +8,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nancy-uddin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nancy-uddin/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/flybrowngurl/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/flybrowngurl/?hl=en" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@nancyuddin_40398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@nancyuddin_40398" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nancy-uddin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nancy-uddin/" height="30" width="40" /></a>
+<a href="https://instagram.com/flybrowngurl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flybrowngurl" height="30" width="40" /></a>
+<a href="https://medium.com/@nancyuddin_40398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nancyuddin_40398" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
