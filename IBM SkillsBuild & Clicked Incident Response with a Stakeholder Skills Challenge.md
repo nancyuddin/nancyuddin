@@ -3,9 +3,9 @@
 
 ### General Steps on How to Navigate Producing an Incident Response
 1. Identify risk and outline the details
-    a. Learn who was impacted and how by reviewing logs and talking to client and those directly impacted by attack
+    - Learn who was impacted and how by reviewing logs and talking to client and those directly impacted by attack
 2. Categorize 
-    a. Evaluate risk level - do you need to escalate to management?
+    - Evaluate risk level - do you need to escalate to management?
 3. What are the security policies? 
 4. Control the environment and block the infected area
 5. Notify stakeholders if need be
